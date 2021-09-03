@@ -7,7 +7,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
   lectus quam. Enim neque volutpat ac tincidunt vitae semper quis lectus. At
   erat pellentesque adipiscing commodo elit at.
 featured: false
-img: ../../static/images/girl-on-phone.jpeg
+img: ../../static/images/tables.jpeg
 imgAlt: Scroll scroll scroll...
 tags:
   - self-improvement
